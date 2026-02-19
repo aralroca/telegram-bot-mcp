@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/confirm", "destination": "/api/confirm.js" },
+    { "source": "/webhook", "destination": "/api/webhook.js" },
+    { "source": "/confirm-status", "destination": "/api/confirm-status.js" },
+    { "source": "/health", "destination": "/api/health.js" }
+  ]
+}
