@@ -1,4 +1,4 @@
-# Telegram MCP Bridge
+# Telegram Confirmation MCP Bridge
 
 A simple bridge to request human confirmation via Telegram from an MCP agent (like Antigravity).
 
